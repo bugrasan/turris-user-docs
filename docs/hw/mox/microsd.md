@@ -70,4 +70,4 @@ ln -s @/boot/boot-btrfs.scr /mnt/turris/boot.scr
 umount /mnt/turris
 ```
 
-Now you have a micro SD card with latest medkit.
+Now you have a micro SD card with the latest medkit.
