@@ -45,7 +45,7 @@ mkfs.btrfs -f -L turris /dev/mmcblk0p1
 
 ### Content
 
-Now we need to get the actuall content on the micro SD card. Turris routers by
+Now we need to get the actual content on the micro SD card. Turris routers by
 default boot from `@` snaphot. So we need to create it and populate it.  For
 that we need mounted filesystem, so let's assume, that you have `/mnt/turris`
 directory empty to be used as mounting point of your microSD card. Also as you
