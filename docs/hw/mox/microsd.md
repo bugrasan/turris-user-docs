@@ -26,7 +26,7 @@ likely need a Linux machine.
 
 !!! tip
     You can use the manual setup to prepare any other media as well and MOX
-    will boot out of it. Fir example USB flash drive.
+    will boot out of it. For example USB flash drive.
 
 ### FS layout
 
